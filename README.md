@@ -6,13 +6,13 @@ This repository contains Dockerfiles and docker-compose files for both demo and 
 
 ### Demo
 
-- Nodejs simple docker file
-- Nodejs multi layer docker file
+- Nodejs simple docker file :white_check_mark:
+- Nodejs multi layer docker file :white_check_mark:
 
 ### Hands-on
 
-- golang simple docker file
-- golang multi layer docker file
+- golang simple docker file :white_check_mark:
+- golang multi layer docker file :white_check_mark:
 
 ## Multi Stage Builds
 
@@ -29,8 +29,8 @@ This repository contains Dockerfiles and docker-compose files for both demo and 
 ## Docker-Compose
 
 ### Demo
-- Create docker compose for python + redis
+- Create docker compose for python + redis  :white_check_mark:
 
 ### Hands-on
-- Create docker compose for golang + redis
+- Create docker compose for golang + redis  :white_check_mark:
 
