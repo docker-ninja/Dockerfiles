@@ -23,8 +23,8 @@ This repository contains Dockerfiles and docker-compose files for both demo and 
 
 ### Hands-on
 
-- golang simple docker file
-- golang multi stage docker file
+- golang simple docker file :white_check_mark:
+- golang multi stage docker file :white_check_mark:
 
 ## Docker-Compose
 
