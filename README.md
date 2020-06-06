@@ -18,8 +18,8 @@ This repository contains Dockerfiles and docker-compose files for both demo and 
 
 ### Demo
 
-- metadata service simple docker file
-- metadata multi stage docker file
+- metadata service simple docker file :white_check_mark:
+- metadata multi stage docker file :white_check_mark:
 
 ### Hands-on
 
